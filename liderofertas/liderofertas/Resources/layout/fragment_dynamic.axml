@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@android:color/transparent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true"
+    android:textAlignment="gravity"
+    android:id="@+id/dynamicFragmentLinearLayout"
+    android:gravity="top"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fillViewport="true"
+        android:id="@+id/scrollViewCat">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/linearLayoutCat"
+            android:layout_marginTop="10dp"
+            textAlignment="center">
+            <GridView
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/gridViewCat"
+                android:gravity="center"
+                android:numColumns="2"
+                android:verticalSpacing="24dp"
+                android:horizontalSpacing="10dp"
+                android:stretchMode="columnWidth"
+                android:layout_marginTop="20dp"
+                android:minHeight="600dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

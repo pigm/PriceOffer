@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.estimote.proximity_sdk" android:versionCode="90010003" android:versionName="1.0.3">
+  <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="26" />
+  <uses-permission android:name="android.permission.BLUETOOTH" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <application>
+    <receiver android:name="com.estimote.proximity_sdk.api.TriggerBroadcastReceiver">
+      <intent-filter>
+        <action android:name="com.estimote.proximity_trigger" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

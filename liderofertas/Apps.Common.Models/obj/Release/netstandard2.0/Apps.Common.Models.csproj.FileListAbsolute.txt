@@ -1,0 +1,9 @@
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/bin/Release/netstandard2.0/Apps.Common.Models.deps.json
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/bin/Release/netstandard2.0/Apps.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/bin/Release/netstandard2.0/Apps.Common.Models.pdb
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/obj/Release/netstandard2.0/Apps.Common.Models.csprojAssemblyReference.cache
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/obj/Release/netstandard2.0/Apps.Common.Models.csproj.CoreCompileInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/obj/Release/netstandard2.0/Apps.Common.Models.AssemblyInfoInputs.cache
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/obj/Release/netstandard2.0/Apps.Common.Models.AssemblyInfo.cs
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/obj/Release/netstandard2.0/Apps.Common.Models.dll
+/Users/pablogarrido/Desktop/Repositorios/PriceOffer/liderofertas/Apps.Common.Models/obj/Release/netstandard2.0/Apps.Common.Models.pdb
